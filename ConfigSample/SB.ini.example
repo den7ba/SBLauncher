@@ -1,0 +1,9 @@
+[Main]
+LaunchProcess=game.exe
+LaunchPath=C:\Folder\launcher.exe
+LaunchFolderPath=C:\Folder\
+SboxHostPath=C:\Program Files\Sandboxie-Plus\SboxHostDll.dll
+AdditionalCommand=None
+DriverPath=None
+SbieDllPath=C:\Program Files\Sandboxie-Plus\SbieDll.dll
+SbieStartPath=C:\Program Files\Sandboxie-Plus\Start.exe

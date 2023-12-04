@@ -1,0 +1,3 @@
+[submodule "mINI"]
+	path = mINI
+	url = git@github.com:metayeti/mINI.git

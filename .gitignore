@@ -1,0 +1,12 @@
+﻿#
+# Compiled binaries.
+#
+x64/**
+src/SBLauncher/x64/**
+
+#
+# Visual Studio files.
+#
+.vs/**
+*.VC.db
+*.VC.opendb
